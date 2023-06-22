@@ -37,14 +37,15 @@ About analyze business, designis a simple chatbot, analyze data and visualize wi
 
 ## Examples of My Work
 _Test Case_  
-  * Test case 1: [Test case using excel](https://docs.google.com/spreadsheets/d/1ELczcsqpujvpZkXTb3EoDtvJg0XxstCw/edit?usp=share_link&ouid=103318968433682744563&rtpof=true&sd=true).
-  * Test case 2: [Test case using excel](https://docs.google.com/spreadsheets/d/1mzIVF4M2x1Sm6jB551cSLkPPd__0cp04/edit?usp=sharing&ouid=103318968433682744563&rtpof=true&sd=true).
-  * Test case 3: [Test case document from Qase.io](https://drive.google.com/file/d/1WobfhhY89JK028cHojsnkH0LF9_vF5hw/view?usp=share_link).
-  * Test case 4: [Test case document saucedemo](https://docs.google.com/spreadsheets/d/192fror7FYx53cE7ZoBfEwMUWvwFbfuMz8zZg9hTjlRY/edit?usp=sharing).
-  * Test case 5: [Test case App Pemesanan Makanan](https://docs.google.com/spreadsheets/d/1NPezk1Gr7IPkS1bn8PlMcsVlBuGeiIR_3t-doKjQg7Q/edit?usp=share_link).
+  * Test case 1: [Test case App Pemesanan Makanan](https://docs.google.com/spreadsheets/d/1-Kcwis4jOlMEnNOnXaNM8cbVpCZVEhT-RrF0b-ngN2E/edit#gid=698960509).
+  * Test case 2: [Test case youtube music](https://docs.google.com/spreadsheets/d/1RjL37-jqs-M-mfrMAKLggqgP1bwrWGUh/edit#gid=1622460097).
+  * Test case 3: [Test case using excel](https://docs.google.com/spreadsheets/d/1g5XJ2nK6s_hgryYgKAHlCO42Q0Ey1SzoKAkKKMTYXvo/edit#gid=0).
+
 
 _Bug Report_
-  * Bug report: [link](https://docs.google.com/document/d/1VTZvPi3y2iHbRCd1225vhL0GkiXFqia6JCtD4qruEcc/edit?usp=share_link).
+  * Bug report: [link](https://docs.google.com/document/d/12MZ2Ta89NYDdGeEf-QyniEw7RsppDCvVlIab_bZijQY/edit).
+  * Bug report: [link](https://docs.google.com/document/d/1-m0cJ2J5iIt-T4SlHaT6FOJwFGDu7XP10v3p3ycJ_e8/edit).
+    
 
 _Case Study_  
   * Test case and bug report: [link](https://drive.google.com/file/d/18KoqVH-dMZFcHRPHPAQCIU_iDqFAZP3n/view?usp=share_link).
