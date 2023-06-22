@@ -15,7 +15,7 @@ _Automation testing_
 
 ## Tools
 
-_Trello
+_Trello_
   
 _Katalon_
 
@@ -39,19 +39,19 @@ About analyze business, designis a simple chatbot, analyze data and visualize wi
 _Test Case_  
   * Test case 1: [Test case App Pemesanan Makanan](https://docs.google.com/spreadsheets/d/1-Kcwis4jOlMEnNOnXaNM8cbVpCZVEhT-RrF0b-ngN2E/edit#gid=698960509).
   * Test case 2: [Test case youtube music](https://docs.google.com/spreadsheets/d/1RjL37-jqs-M-mfrMAKLggqgP1bwrWGUh/edit#gid=1622460097).
-  * Test case 3: [Test case using excel](https://docs.google.com/spreadsheets/d/1g5XJ2nK6s_hgryYgKAHlCO42Q0Ey1SzoKAkKKMTYXvo/edit#gid=0).
+  * Test case 3: [Test case using excel](https://docs.google.com/spreadsheets/d/1g5XJ2nK6s_hgryYgKAHlCO42Q0Ey1SzoKAkKKMTYXvo/edit?usp=sharing).
 
 
 _Bug Report_
-  * Bug report: [link](https://docs.google.com/document/d/12MZ2Ta89NYDdGeEf-QyniEw7RsppDCvVlIab_bZijQY/edit).
-  * Bug report: [link](https://docs.google.com/document/d/1-m0cJ2J5iIt-T4SlHaT6FOJwFGDu7XP10v3p3ycJ_e8/edit).
+  * Bug report: [link](https://docs.google.com/document/d/12MZ2Ta89NYDdGeEf-QyniEw7RsppDCvVlIab_bZijQY/edit?usp=sharing).
+  * Bug report: [link](https://docs.google.com/document/d/1-m0cJ2J5iIt-T4SlHaT6FOJwFGDu7XP10v3p3ycJ_e8/edit?usp=sharing).
     
 
 _Case Study_  
   * Test case and bug report: [link](https://drive.google.com/file/d/18KoqVH-dMZFcHRPHPAQCIU_iDqFAZP3n/view?usp=share_link).
-  * Gherkin & Test Case Youtube Music: [link](https://docs.google.com/spreadsheets/d/120G1RUI-Sn2VsZfy64B-M7LrwkuUaCcJAb76Y7x9_U4/edit?usp=sharing).
-  * Boundary Value Analysis: [link](https://docs.google.com/spreadsheets/d/1hZGJWzcQD7vmIQpXnTR6JCoIYvaGTlLqj6Bc8PCN-X8/edit?usp=sharing).
-  * Gherkin & Script: [link](https://docs.google.com/document/d/1yhxxfmb9KT1TtS41K9AwJ6y6He0DfW4DIpiOlr_cbvs/edit?usp=sharing).
+  * Gherkin & Test Case Youtube Music: [link](https://docs.google.com/spreadsheets/d/12Lg7lQsuaAFg1ij1kZSog8-MPO7w254DeEEa6BSf0d4/edit#gid=609959482).
+  * Boundary Value Analysis: [link](https://docs.google.com/spreadsheets/d/1KXP45HEbGQqKLvUnroI1_uhQM90Su5609ObYUzaTrPg/edit?usp=sharing).
+  * Gherkin & Script: [link](https://docs.google.com/document/d/1HBQs6ZVG8XtsaeTowp7mClh3_4iS68eIKItzh4idX44/edit?usp=sharing).
   
  _Automation Scripts_
  * Test case and automation using Cypress: [link](https://drive.google.com/file/d/1n80ISEsZO0v_vJpk5lI-VUoMjsxe-pwr/view?usp=sharing).
