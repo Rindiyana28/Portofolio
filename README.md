@@ -52,9 +52,12 @@ _Case Study_
   * Gherkin & Test Case Youtube Music: [link](https://docs.google.com/spreadsheets/d/12Lg7lQsuaAFg1ij1kZSog8-MPO7w254DeEEa6BSf0d4/edit#gid=609959482).
   * Boundary Value Analysis: [link](https://docs.google.com/spreadsheets/d/1KXP45HEbGQqKLvUnroI1_uhQM90Su5609ObYUzaTrPg/edit?usp=sharing).
   * Gherkin & Script: [link](https://docs.google.com/document/d/1HBQs6ZVG8XtsaeTowp7mClh3_4iS68eIKItzh4idX44/edit?usp=sharing).
+
+_Postman_
+  * Test API Raja Ongkir : [link](https://drive.google.com/file/d/1MOzN4cq5QnQFl1Wds99BVwrGOEBoMfTR/view?usp=drive_link).
   
 
 _Katalon_
  * Testing OrangeHRM Website Menu Recruitment: [Search & Add Vacancy](https://drive.google.com/file/d/1hyuNgSG09PK1dQcaddKeuKcjQk97eNwo/view?usp=sharing).
- * Testing OrangeHRM Website Menu Directory ( https://drive.google.com/file/d/1RIlwScAtOwc9lu6UsUBvWqQyf_jUZJaj/view?usp=sharing )
+ * Testing OrangeHRM Website Menu Directory (https://drive.google.com/file/d/1RIlwScAtOwc9lu6UsUBvWqQyf_jUZJaj/view?usp=sharing)
 
