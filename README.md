@@ -23,7 +23,7 @@ _Postman_
 
 ## Certifications
 
-_Basic Web Programming   
+_Basic Web Programming_   
 Online bootcamp by Camp 404 
 Basic Web programming  about course HTML,CSS,Javascript,PHP
 [Link to the certificate](https://drive.google.com/file/d/1IcwtVyg5Q-C4wtDG5C-lRPussetpQkpo/view?usp=drive_link)
