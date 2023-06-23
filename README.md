@@ -53,9 +53,8 @@ _Case Study_
   * Boundary Value Analysis: [link](https://docs.google.com/spreadsheets/d/1KXP45HEbGQqKLvUnroI1_uhQM90Su5609ObYUzaTrPg/edit?usp=sharing).
   * Gherkin & Script: [link](https://docs.google.com/document/d/1HBQs6ZVG8XtsaeTowp7mClh3_4iS68eIKItzh4idX44/edit?usp=sharing).
   
- _Automation Scripts_
- * Test case and automation using Cypress: [link](https://drive.google.com/file/d/1n80ISEsZO0v_vJpk5lI-VUoMjsxe-pwr/view?usp=sharing).
 
 _Katalon_
  * Testing OrangeHRM Website Menu Recruitment: [Search & Add Vacancy](https://drive.google.com/file/d/1hyuNgSG09PK1dQcaddKeuKcjQk97eNwo/view?usp=sharing).
+ * Testing OrangeHRM Website Menu Directory ( https://drive.google.com/file/d/1RIlwScAtOwc9lu6UsUBvWqQyf_jUZJaj/view?usp=sharing )
 
