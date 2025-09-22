@@ -1,5 +1,5 @@
-# Portfolio
-- [Profile] (#profile)
+# Portfolio 
+- [Profile](#Profile)
 - [Skills](#skills)
 - [Tools](#tools)
 - [Certifications](#certifications)
