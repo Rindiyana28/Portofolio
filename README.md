@@ -13,18 +13,25 @@ A Quality Assurance Tester with less than a year of experience in the field, pas
 
 _Manual testing_
   * Create test case, test scenario, and make test reports
-  * Create bug reports
+  *  Identify and report defects using JIRA
+  * Collaborate with developers to resolve issues
+  * Run Api testing
+  * Perform smoke, regression and sanity testing on delivery-related to verify the integration with various logistics, making sure the
+platform effectively tracks, manages, and monitors product
+  
 
 _Automation testing_
   * Create automation scripts using Katalon and run automation testing
 
 ## Tools
 
-_Trello_
+_Jira_
   
-_Katalon_
+_Dbeaver_
 
 _Postman_
+
+_Google sheet_
 
 ## Certifications
 
