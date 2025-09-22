@@ -46,22 +46,15 @@ About analyze business, designis a simple chatbot, analyze data and visualize wi
 
 ## Examples of My Work
 _Test Case_  
-  * Test case 1: [Test case App Pemesanan Makanan](https://docs.google.com/spreadsheets/d/1-Kcwis4jOlMEnNOnXaNM8cbVpCZVEhT-RrF0b-ngN2E/edit#gid=698960509).
-  * Test case Project 1: [Test case youtube music](https://docs.google.com/spreadsheets/d/1RjL37mfrMAKLggqgP1bwrWGUh/edit#gid=1622460097).
-  * Test Project 2 : [Test case using excel](https://docs.google.com/spreadsheets/d/1g5XJ2nK6s_hgryYgKAHlCO42Q0Ey1SzoKAkKKMTYXvo/edit?usp=sharing).
+  * Test case Project 1: [Test case](https://docs.google.com/spreadsheets/d/1-Kcwis4jOlMEnNOnXaNM8cbVpCZVEhT-RrF0b-ngN2E/edit?usp=drivesdk).
+  * Test Project 2 : [Test case](https://docs.google.com/spreadsheets/d/1VD-Ii2PnIcWXUXMN0EheeRzwaf_8dGG8/edit?usp=drivesdk&ouid=110715236908899036629&rtpof=true&sd=true).
 
 
 _Bug Report_
-  * Bug report: [link](https://docs.google.com/document/d/12MZ2Ta89NYDdGeEf-QyniEw7RsppDCvVlIab_bZijQY/edit?usp=sharing).
-  * Bug report: [link](https://docs.google.com/document/d/1-m0cJ2J5iIt-T4SlHaT6FOJwFGDu7XP10v3p3ycJ_e8/edit?usp=sharing).
+  * Bug report: [link](https://docs.google.com/spreadsheets/d/1W3MJnhU-qOQUKLabX9xJ0QHP2EecPpR7/edit?usp=drivesdk&ouid=110715236908899036629&rtpof=true&sd=true).
+  * Bug report: [link](https://docs.google.com/spreadsheets/d/1LHkEpz_y_mOWjtR25kPNtLUNJWYQz7kZ/edit?usp=drivesdk&ouid=110715236908899036629&rtpof=true&sd=true).
     
 _Postman_
-  * Test API Raja Ongkir : [link](https://drive.google.com/file/d/1MOzN4cq5QnQFl1Wds99BVwrGOEBoMfTR/view?usp=drive_link).
+  * Test API : [link](https://docs.google.com/document/d/14wPoL7CBpRluVwbjQ174nYgcls7KUWZf/edit?usp=drivesdk&ouid=110715236908899036629&rtpof=true&sd=true).
   
-
-_Katalon_
- * Testing OrangeHRM Website Menu Recruitment: [Search & Add Vacancy](https://drive.google.com/file/d/1hyuNgSG09PK1dQcaddKeuKcjQk97eNwo/view?usp=sharing).
- * Testing OrangeHRM Website Menu Directory (https://drive.google.com/file/d/1RIlwScAtOwc9lu6UsUBvWqQyf_jUZJaj/view?usp=sharing)
-
-
 
