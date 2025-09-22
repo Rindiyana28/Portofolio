@@ -46,8 +46,8 @@ About analyze business, designis a simple chatbot, analyze data and visualize wi
 
 ## Examples of My Work
 _Test Case_  
-  * Test case Project 1: [Test case](https://docs.google.com/spreadsheets/d/1-Kcwis4jOlMEnNOnXaNM8cbVpCZVEhT-RrF0b-ngN2E/edit?usp=drivesdk).
-  * Test Project 2 : [Test case](https://docs.google.com/spreadsheets/d/1VD-Ii2PnIcWXUXMN0EheeRzwaf_8dGG8/edit?usp=drivesdk&ouid=110715236908899036629&rtpof=true&sd=true).
+  * Test case Project 1: [Test case](https://docs.google.com/spreadsheets/d/1h775P_sUxYuXN7FTW1P4AyrLuvyCLr5C/edit?usp=drivesdk&ouid=110715236908899036629&rtpof=true&sd=true).
+  * Test case Project 2 : [Test case](https://docs.google.com/spreadsheets/d/1VD-Ii2PnIcWXUXMN0EheeRzwaf_8dGG8/edit?usp=drivesdk&ouid=110715236908899036629&rtpof=true&sd=true).
 
 
 _Bug Report_
