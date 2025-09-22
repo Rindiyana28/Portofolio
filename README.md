@@ -1,8 +1,13 @@
 # Portfolio
+- [Profile] (#profile)
 - [Skills](#skills)
 - [Tools](#tools)
 - [Certifications](#certifications)
 - [Examples of My Work](#examples-of-my-work)
+
+## Profile
+
+A Quality Assurance Tester with less than a year of experience in the field, passionate about creating test cases and reporting bugs to enhance software functionality. Proficient in SDLC methodologies, including Waterfall and Agile. Familiar with tools such as Jira, and Dbiver. Has great problemsolving skills and attention to detail, helping deliver high-quality software.
 
 ## Skills
 
@@ -60,4 +65,6 @@ _Postman_
 _Katalon_
  * Testing OrangeHRM Website Menu Recruitment: [Search & Add Vacancy](https://drive.google.com/file/d/1hyuNgSG09PK1dQcaddKeuKcjQk97eNwo/view?usp=sharing).
  * Testing OrangeHRM Website Menu Directory (https://drive.google.com/file/d/1RIlwScAtOwc9lu6UsUBvWqQyf_jUZJaj/view?usp=sharing)
+
+
 
