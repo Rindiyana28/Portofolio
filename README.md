@@ -18,10 +18,7 @@ _Manual testing_
   * Run Api testing
   * Perform smoke, regression and sanity testing on delivery-related to verify the integration with various logistics, making sure the
 platform effectively tracks, manages, and monitors product
-  
-
-_Automation testing_
-  * Create automation scripts using Katalon and run automation testing
+ 
 
 ## Tools
 
@@ -50,21 +47,14 @@ About analyze business, designis a simple chatbot, analyze data and visualize wi
 ## Examples of My Work
 _Test Case_  
   * Test case 1: [Test case App Pemesanan Makanan](https://docs.google.com/spreadsheets/d/1-Kcwis4jOlMEnNOnXaNM8cbVpCZVEhT-RrF0b-ngN2E/edit#gid=698960509).
-  * Test case 2: [Test case youtube music](https://docs.google.com/spreadsheets/d/1RjL37-jqs-M-mfrMAKLggqgP1bwrWGUh/edit#gid=1622460097).
-  * Test case 3: [Test case using excel](https://docs.google.com/spreadsheets/d/1g5XJ2nK6s_hgryYgKAHlCO42Q0Ey1SzoKAkKKMTYXvo/edit?usp=sharing).
+  * Test case Project 1: [Test case youtube music](https://docs.google.com/spreadsheets/d/1RjL37mfrMAKLggqgP1bwrWGUh/edit#gid=1622460097).
+  * Test Project 2 : [Test case using excel](https://docs.google.com/spreadsheets/d/1g5XJ2nK6s_hgryYgKAHlCO42Q0Ey1SzoKAkKKMTYXvo/edit?usp=sharing).
 
 
 _Bug Report_
   * Bug report: [link](https://docs.google.com/document/d/12MZ2Ta89NYDdGeEf-QyniEw7RsppDCvVlIab_bZijQY/edit?usp=sharing).
   * Bug report: [link](https://docs.google.com/document/d/1-m0cJ2J5iIt-T4SlHaT6FOJwFGDu7XP10v3p3ycJ_e8/edit?usp=sharing).
     
-
-_Case Study_  
-  * Test case and bug report: [link](https://drive.google.com/file/d/18KoqVH-dMZFcHRPHPAQCIU_iDqFAZP3n/view?usp=share_link).
-  * Gherkin & Test Case Youtube Music: [link](https://docs.google.com/spreadsheets/d/12Lg7lQsuaAFg1ij1kZSog8-MPO7w254DeEEa6BSf0d4/edit#gid=609959482).
-  * Boundary Value Analysis: [link](https://docs.google.com/spreadsheets/d/1KXP45HEbGQqKLvUnroI1_uhQM90Su5609ObYUzaTrPg/edit?usp=sharing).
-  * Gherkin & Script: [link](https://docs.google.com/document/d/1HBQs6ZVG8XtsaeTowp7mClh3_4iS68eIKItzh4idX44/edit?usp=sharing).
-
 _Postman_
   * Test API Raja Ongkir : [link](https://drive.google.com/file/d/1MOzN4cq5QnQFl1Wds99BVwrGOEBoMfTR/view?usp=drive_link).
   
