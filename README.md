@@ -54,6 +54,7 @@ About analyze business, designis a simple chatbot, analyze data and visualize wi
 
 _Quality Assurance_  
 [Link to the certificate](https://drive.google.com/file/d/1ZxwIzLLTGQH0ZqDcPDNdmDgL7Dw9DNyU/view?usp=drivesdk)
+[Link to the certificate](https://drive.google.com/file/d/1M8aXUWHwN8L3qBhnu9prbozlxgudo1yP/view?usp=drivesdk)
 
 
 
