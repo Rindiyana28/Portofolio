@@ -53,8 +53,8 @@ About analyze business, designis a simple chatbot, analyze data and visualize wi
 [Link to the certificate](https://drive.google.com/drive/search?q=sertif)
 
 _Quality Assurance_  
-[Link to the certificate](https://drive.google.com/file/d/1ZxwIzLLTGQH0ZqDcPDNdmDgL7Dw9DNyU/view?usp=drivesdk)
-[Link to the certificate](https://drive.google.com/file/d/1M8aXUWHwN8L3qBhnu9prbozlxgudo1yP/view?usp=drivesdk)
+* [Link to the certificate](https://drive.google.com/file/d/1ZxwIzLLTGQH0ZqDcPDNdmDgL7Dw9DNyU/view?usp=drivesdk)
+* [Link to the certificate](https://drive.google.com/file/d/1M8aXUWHwN8L3qBhnu9prbozlxgudo1yP/view?usp=drivesdk)
 
 
 
@@ -76,6 +76,7 @@ _Test Case_
 * Test case App pemesanan makanan : [link](https://docs.google.com/spreadsheets/d/1-Kcwis4jOlMEnNOnXaNM8cbVpCZVEhT-RrF0b-ngN2E/edit#gid=698960509).
 * Test case  : [link](https://docs.google.com/spreadsheets/d/1g5XJ2nK6s_hgryYgKAHlCO42Q0Ey1SzoKAkKKMTYXvo/edit?usp=sharing).
 * Reporting : [link](https://docs.google.com/document/d/1-m0cJ2J5iIt-T4SlHaT6FOJwFGDu7XP10v3p3ycJ_e8/edit?usp=sharing).
+* Gherkin script : [link](https://docs.google.com/document/d/1HBQs6ZVG8XtsaeTowp7mClh3_4iS68eIKItzh4idX44/edit?usp=sharing).
     
     
 
