@@ -68,10 +68,10 @@ _Postman_
 
 ## Examples of course or self study
 _Test Case_  
-  * Test case App Pemesanan makanan : [link] (https://docs.google.com/spreadsheets/d/1-Kcwis4jOlMEnNOnXaNM8cbVpCZVEhT-RrF0b-ngN2E/edit#gid=698960509)
-  * Test case : [link] (https://docs.google.com/spreadsheets/d/1g5XJ2nK6s_hgryYgKAHlCO42Q0Ey1SzoKAkKKMTYXvo/edit?usp=sharing)
-  * Reporting : [link] (https://docs.google.com/document/d/1-m0cJ2J5iIt-T4SlHaT6FOJwFGDu7XP10v3p3ycJ_e8/edit?usp=sharing)
-
+* Test case App pemesanan makanan : [link](https://docs.google.com/spreadsheets/d/1-Kcwis4jOlMEnNOnXaNM8cbVpCZVEhT-RrF0b-ngN2E/edit#gid=698960509).
+  * Test case  : [link](https://docs.google.com/spreadsheets/d/1g5XJ2nK6s_hgryYgKAHlCO42Q0Ey1SzoKAkKKMTYXvo/edit?usp=sharing).
+  * Reporting : [link](https://docs.google.com/document/d/1-m0cJ2J5iIt-T4SlHaT6FOJwFGDu7XP10v3p3ycJ_e8/edit?usp=sharing).
+    
     
 
 
