@@ -58,10 +58,6 @@ _Test Case_
   * Test case Project 1: [Test case](https://docs.google.com/spreadsheets/d/1h775P_sUxYuXN7FTW1P4AyrLuvyCLr5C/edit?usp=drivesdk&ouid=110715236908899036629&rtpof=true&sd=true).
   * Test case Project 2 : [Test case](https://docs.google.com/spreadsheets/d/1VD-Ii2PnIcWXUXMN0EheeRzwaf_8dGG8/edit?usp=drivesdk&ouid=110715236908899036629&rtpof=true&sd=true).
 
-_Examples of self _ 
-
-
-
 _Bug Report_
   * Bug report: [link](https://docs.google.com/spreadsheets/d/1W3MJnhU-qOQUKLabX9xJ0QHP2EecPpR7/edit?usp=drivesdk&ouid=110715236908899036629&rtpof=true&sd=true).
   * Bug report: [link](https://docs.google.com/spreadsheets/d/1LHkEpz_y_mOWjtR25kPNtLUNJWYQz7kZ/edit?usp=drivesdk&ouid=110715236908899036629&rtpof=true&sd=true).
@@ -69,5 +65,15 @@ _Bug Report_
 
 _Postman_
   * Test API : [link](https://docs.google.com/document/d/14wPoL7CBpRluVwbjQ174nYgcls7KUWZf/edit?usp=drivesdk&ouid=110715236908899036629&rtpof=true&sd=true).
+
+## Examples of course or self study
+_Test Case_  
+  * Test case App Pemesanan makanan  [link] (https://docs.google.com/spreadsheets/d/1-Kcwis4jOlMEnNOnXaNM8cbVpCZVEhT-RrF0b-ngN2E/edit#gid=698960509)
+  * Test case  [link] (https://docs.google.com/spreadsheets/d/1g5XJ2nK6s_hgryYgKAHlCO42Q0Ey1SzoKAkKKMTYXvo/edit?usp=sharing)
+  * Reporting [link] (https://docs.google.com/document/d/1-m0cJ2J5iIt-T4SlHaT6FOJwFGDu7XP10v3p3ycJ_e8/edit?usp=sharing)
+
+    
+
+
   
 
